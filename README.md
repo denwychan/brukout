@@ -22,7 +22,3 @@ This is Assignment #3 of CS106A Programming Methodologies module by Stanford Uni
 - When the ball collides with a brick, the brick 'breaks' and disappears
 - The movement of  the ball is controlled by bouncing it off the paddle, walls of the game whilst obeying the laws of physics
 - The velocity of the ball increases as the game progresses in each turn
-
-## Software Requirements
-
-Coming soon
