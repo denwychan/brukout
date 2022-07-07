@@ -11,9 +11,7 @@ Implementation of classic arcade game [Breakout](https://en.wikipedia.org/wiki/B
 - The player wins if the last brick is eliminated and the game ends immediately
 - Regardless of whether the player wins or loses, the 'Brukout Girl' will appear to dance with excitement and the final score of the game
 
-<img src="Images/BrukoutGame.png" alt="drawing" width="250"/>
-<img src="Images/BrukoutGame2.png" alt="drawing" width="250"/>
-<img src="Images/BrukoutGirlDancing.png" alt="drawing" width="250"/>
+<img src="Images/BrukoutGame.png" alt="drawing" width="250"/> <img src="Images/BrukoutGame2.png" alt="drawing" width="250"/> <img src="Images/BrukoutGirlDancing.png" alt="drawing" width="250"/>
 
 ## Rules and Game Logic 
 
