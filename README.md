@@ -1,5 +1,6 @@
 # Brukout
 Implementation of classic arcade game [Breakout](https://en.wikipedia.org/wiki/Breakout_%28video_game%29) with a Caribbean twist  
+This is Assignment #3 of CS106A Programming Methodologies module by Stanford University  
 'Brukout' means to get wild while dancing, which is popularised by Caribbean artist Major Lazer and characterised in this game by the 'Brukout Girl'
 
 <img src="Images/BrukoutGirl.png" alt="drawing" width="150"/>
